@@ -5,6 +5,17 @@ const Footer = () => {
 	return (
 		<footer>
 			<div className='container'>
+				<p>
+					<a
+						target='_blank'
+						rel='noreferrer'
+						href='https://github.com/Zhilyasov'
+					>
+						Made by <strong>Zhilyasov</strong>
+					</a>
+				</p>
+			</div>
+			{/* <div className='container'>
 				<p>Авторские права © 2024. Все права защищены</p>
 				<div className='footerc'>
 					<p>
@@ -61,7 +72,7 @@ const Footer = () => {
 						</a>
 					</div>
 				</div>
-			</div>
+			</div> */}
 		</footer>
 	)
 }
