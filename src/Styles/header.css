@@ -94,7 +94,7 @@
 		width: 70vw;
 	}
 } */
-@media (800px <= height <= 1000px) and (400px <= width <= 430px) {
+@media (800px <= height <= 1000px) and (415px <= width < 430px) {
 	.header-bottom {
 		margin-bottom: 10px;
 	}
