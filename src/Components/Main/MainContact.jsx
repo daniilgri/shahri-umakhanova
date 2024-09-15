@@ -26,7 +26,7 @@ const MainContact = () => {
 							<h3>Whatsapp</h3>
 						</div>
 					</a>
-					<a href="https://t.me/79296961514" target="_blank" rel="noreferrer" className="contacts-box-item">
+					<a href="https://t.me/shahrishapievna" target="_blank" rel="noreferrer" className="contacts-box-item">
 						<span>
 							<IconBrandTelegram width={25} height={25} />
 						</span>

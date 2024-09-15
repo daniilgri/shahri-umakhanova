@@ -162,6 +162,12 @@
 	align-items: center;
 	text-decoration: none;
 	color: #000000;
+	transition: all .3s ease-in-out;
+}
+
+.contacts-box-item:hover {
+	transition: all .2s ease-in-out;
+	color: #147efb;
 }
 
 .contacts-box-item span {
@@ -186,3 +192,94 @@
 	margin: 10px 0 0;
 }
 
+
+@media (min-width: 870px) {
+	.price-assortment {
+    line-height: 60px;
+		font-size: 30px;
+		padding: 0 20px;
+	}
+	h2 {
+		font-size: 50px;
+	}
+	.price-places-frame {
+    padding: 0 20px;
+	}
+	.price-places {
+    margin-bottom: 100px;
+	}
+	.assortment-price-few {
+    padding: 30px 0;
+	}
+	.assortment-service span {
+    display: block;
+	}
+	.review-header img {
+    width: 300px;
+    height: 300px;
+	}
+	.review-bottom {
+    font-size: 26px;
+		width: 60%;
+		margin: 0 auto;
+	}
+	.feedback-box {
+    width: 70vw;
+	}
+	.slick-prev, .slick-next {
+    width: 150px;
+    height: 150px;
+	}
+	.slick-prev {
+    left: -150px;
+	}
+	.slick-next {
+    right: -150px;
+	}
+	.slick-prev:before, .slick-next:before {
+    font-size: 90px;
+	}
+	.slick-dots li {
+    width: 40px;
+    height: 40px;
+	}
+	.slick-dots li button:before {
+    font-size: 12px;
+	}
+	.main-price {
+    margin-bottom: 300px;
+	}
+	.main-feedback {
+    margin-bottom: 300px;
+	}
+	.main-contacts {
+    margin-bottom: 200px;
+	}
+	.feedback-title {
+    margin-bottom: 150px;
+	}
+	.contacts-title {
+    margin-bottom: 150px;
+	}
+	.tabler-icon {
+		width: 80%;
+		height: 80%;
+	}
+	.contacts-box-item span {
+    height: 100px;
+    width: 100px;
+	}
+	.contacts-box {
+    flex-direction: row;
+		justify-content: space-evenly;
+		align-items: flex-start;
+	}
+	.contacts-box-item {
+    margin-bottom: 0;
+		width: 350px;
+	}
+	.contacts-box-title h3 {
+    margin: 20px 0 0;
+		font-size: 30px;
+	}
+}

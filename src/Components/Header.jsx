@@ -1,5 +1,4 @@
 import React from 'react'
-import avatar from '../avatar.jpg'
 import '../Styles/header.css'
 
 const Header = ({styleTop, styleBottom}) => {
@@ -8,7 +7,7 @@ const Header = ({styleTop, styleBottom}) => {
 			<div style={styleTop} className="header-top-box">
 				<div className='header-top'>Шахри Умаханова</div>
 				<div className='avatar'>
-					<img src={avatar} className='App-logo' alt='logo' />
+					<img src='./avatar.jpg' className='App-logo' alt='logo' />
 				</div>
 			</div>
 			<div className='header-bottom'>

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Shahri Umakhanova",
+  "name": "Shahri Umakhanova",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,44 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "avatar.jpg",
+      "type": "image/jpg",
+      "sizes": "3253×4632"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "IMG_1441.JPG",
+      "type": "image/jpg",
+      "sizes": "3072×3072"
+    },
+    {
+      "src": "IMG_5335.jpg",
+      "type": "image/jpg",
+      "sizes": "1573×967"
+    },
+    {
+      "src": "IMG_5706.JPG",
+      "type": "image/jpg",
+      "sizes": "3072×3072"
+    },
+    {
+      "src": "IMG_5865.jpg",
+      "type": "image/jpg",
+      "sizes": "1609×1230"
+    },
+    {
+      "src": "IMG_9284.JPG",
+      "type": "image/jpg",
+      "sizes": "3072×3072"
+    },
+    {
+      "src": "IMG_9380.jpg",
+      "type": "image/jpg",
+      "sizes": "2046×1274"
+    },
+    {
+      "src": "IMG_9381.JPEG",
+      "type": "image/jpeg",
+      "sizes": "3072×3072"
     }
   ],
   "start_url": ".",
