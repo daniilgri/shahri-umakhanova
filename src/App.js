@@ -22,7 +22,7 @@ function App() {
 		opacity: '0'
 	})
 	const [assortment, setAssortment] = useState({
-		transition: 'all 300ms ease-in',
+		transition: 'all 600ms ease-in',
 		opacity: '0',
 	})
 
@@ -34,7 +34,7 @@ function App() {
 				
 				setShowValue('true')
 				setAssortment({
-					transition: 'all 300ms ease-in',
+					transition: 'all 600ms ease-in',
 					opacity: '1',
 				})
 			}
